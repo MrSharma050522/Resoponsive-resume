@@ -30,6 +30,13 @@ section{
 .profile-details{
     position: relative;
 }
+.progress-bar{
+    height: 4px; 
+    border:1px solid white; 
+    background-color: white;
+    border-radius: 5px;
+    
+}
 .icon{
     list-style: none;
 }
@@ -86,6 +93,9 @@ section{
 }
 .right-main-content {
     padding: 2rem 3rem 2rem 3rem;
+}
+.skill-item{
+    padding: 3px;
 }
 .right-title {
     font-size: 1.2rem;
